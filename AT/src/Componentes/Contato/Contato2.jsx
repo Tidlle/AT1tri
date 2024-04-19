@@ -1,4 +1,4 @@
-function Esquerda() {
+function Contato2() {
     return (
       <>
       <h1>Dúvidas e suporte, entre em contato:</h1>
@@ -11,4 +11,4 @@ function Esquerda() {
     );
   }
   
-  export default Esquerda;
+  export default Contato2;

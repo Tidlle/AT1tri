@@ -132,7 +132,7 @@ nav ul li a:hover {
   background: rgba(105, 117, 232, 1);
 }
 
-.index3{
+.sobre1{
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -141,23 +141,23 @@ nav ul li a:hover {
   padding-top: 50px;
   padding-bottom: 80px;
 }
-.index3 h1{
+.sobre1 h1{
   font-size: 28px;
   margin-bottom: 20px;
 }
 
-.direita{
+.Contato1{
   display: flex;
   align-items: center;
   justify-content: center;
   justify-content: space-around;
   margin-top: 90px;
 }
-.esquerda2{
+.Contato1_2{
   width: 550px;
   height: 470px;
 }
-.esquerda2 h1{
+.Contato1_2 h1{
   font-size: 60px;
 }
 .sites{
@@ -170,7 +170,7 @@ nav ul li a:hover {
   height: 50px;
   margin-right: 50px;
 }
-.esquerda{
+.Contato2{
   height: 500px;
   border: 2px solid rgba(51, 51, 51, 1);
 }
@@ -212,11 +212,4 @@ form button{
   height: 34px;
   position: absolute;
   right: 0px;
-}
-.logo2{
-  width: 32px;
-  height: 32px;
-  gap: 0px;
-  opacity: 0px;
-  img{border-radius: 50px;}
 }

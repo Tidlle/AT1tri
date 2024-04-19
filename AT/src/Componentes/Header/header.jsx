@@ -1,6 +1,6 @@
 import {Link} from 'react-router-dom';
 
-function Header({ title, menuItems }) {
+function Header({menuItems}) {
   return (
     <header>
       <nav>

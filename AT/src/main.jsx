@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import {createBrowserRouter, RouterProvider,Link} from 'react-router-dom'
+import {createBrowserRouter, RouterProvider} from 'react-router-dom'
 import App from './App.jsx'
 import Contato from './pages/Contato.jsx'
 import Sobre from './pages/Sobre.jsx'

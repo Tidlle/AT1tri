@@ -1,4 +1,4 @@
-import Header from './Componentes/Header/index';
+import Header from './Componentes/Header/header';
 import {Outlet} from 'react-router-dom';
 import './style.css'
 

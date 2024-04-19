@@ -1,17 +1,17 @@
-import Direita from '../Componentes/Contato/Direita'
-import Esquerda from '../Componentes/Contato/Esquerda'
+import Contato1 from '../Componentes/Contato/Contato1'
+import Contato2 from '../Componentes/Contato/Contato2'
 
 const Contato = ()=>{
     return(
         <main>
-      <div className="direita">
-        <div className="direita2">
-          <Esquerda/>
+      <div className="Contato1">
+        <div className="Contato1_2">
+          <Contato2/>
         </div>
-        <div className="esquerda">
+        <div className="Contato2">
         </div>
         <div>
-          <Direita/>
+          <Contato1/>
         </div>
       </div>
     </main>

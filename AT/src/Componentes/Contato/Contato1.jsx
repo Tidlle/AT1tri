@@ -1,4 +1,4 @@
-function Direita() {
+function Contato1() {
     return (
       <>
       <form action="post">
@@ -20,4 +20,4 @@ function Direita() {
     );
   }
   
-  export default Direita;
+  export default Contato1;
