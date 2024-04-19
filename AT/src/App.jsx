@@ -1,10 +1,10 @@
 import Header from './Componentes/Header/index';
 import {Outlet} from 'react-router-dom';
-import './App.css'
+import './style.css'
 
 function App() {
   const menuItems = [
-    { text: 'MainPage', link: '/' },
+    { text: 'Home', link: '/' },
     { text: 'Sobre', link: '/sobre' },
     { text: 'Contato', link: '/contato' },
   ];
@@ -15,6 +15,5 @@ function App() {
         </>
   )
 }
-
 
 export default App
